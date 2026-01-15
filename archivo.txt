@@ -1,0 +1,4 @@
+ivo de texto plano.
+Hoy es miércoles.
+Esta linea ha sido incluida desde el exterior y en mitad del archivo 
+Esta es una nueva línea añadida al archivo.

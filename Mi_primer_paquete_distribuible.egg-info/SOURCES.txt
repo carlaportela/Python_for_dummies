@@ -1,0 +1,9 @@
+setup.py
+Mi_primer_paquete/__init__.py
+Mi_primer_paquete/calculos_generales.py
+Mi_primer_paquete/Subpaquete_modulos/__init__.py
+Mi_primer_paquete/Subpaquete_modulos/operaciones_cadenas.py
+Mi_primer_paquete_distribuible.egg-info/PKG-INFO
+Mi_primer_paquete_distribuible.egg-info/SOURCES.txt
+Mi_primer_paquete_distribuible.egg-info/dependency_links.txt
+Mi_primer_paquete_distribuible.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: Mi_primer_paquete_distribuible
+Version: 0.1
+Summary: Un paquete de ejemplo para aprender a crear y distribuir paquetes en Python
+Home-page: https://www.linkedin.com/carla-portela-ubeira-developer
+Author: Maldita Carlita
+Author-email: carlaportelaubeira@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
