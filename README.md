@@ -2,7 +2,7 @@
   <h1 align="center">
    Python desde cero 
     <br/>
-       <img src="" alt="repositorio_Python_logo"/>
+       <img src="https://github.com/carlaportela/Python_for_dummies/blob/main/readme_git_python.png" alt="repositorio_Python_logo"/>
     <br/>
   </h1>
   <h2 align="left">Curso de Python en Youtube de pildorasinformaticas</h2>
