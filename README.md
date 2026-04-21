@@ -7,19 +7,19 @@
   </h1>
   <h2 align="left">Curso de Python en Youtube de pildorasinformaticas</h2>
   <p align="left">
-     <!--Badge de desarrollo-->
-     <img src="https://img.shields.io/badge/Status-in%20progress-green">
-  <!--Badge de issues-->
-    <img src="https://img.shields.io/github/issues/carlaportela/daw?label=Issues">
-  <!--Badge de licencia 
-      <img src="https://img.shields.io/github/license/carlaportela/DAW"/>
-    -->
-  <!--Badge de contributors-->
-    <img src="https://img.shields.io/github/contributors/carlaportela/daw?label=Contributors">
-  <!--Badge de seguidores-->
-    <img src="https://img.shields.io/github/followers/carlaportela"/>
-  <!--Badge de forks-->
-    <img src="https://img.shields.io/github/forks/carlaportela/DAW"/>
+    <!--Badge de desarrollo-->
+      <img src="https://img.shields.io/badge/Status-in%20progress-green">
+    <!--Badge de issues-->
+      <img src="https://img.shields.io/github/issues/carlaportela/daw?label=Issues">
+    <!--Badge de licencia 
+        <img src="https://img.shields.io/github/license/carlaportela/DAW"/>
+      -->
+    <!--Badge de contributors-->
+      <img src="https://img.shields.io/github/contributors/carlaportela/daw?label=Contributors">
+    <!--Badge de seguidores-->
+      <img src="https://img.shields.io/github/followers/carlaportela"/>
+    <!--Badge de forks-->
+      <img src="https://img.shields.io/github/forks/carlaportela/DAW"/>
   </p>
   <p>Curso de Phyton con teoría y ejercicios prácticos para principiantes</p>
   <!--<h3>Aspectos generales</h3>
